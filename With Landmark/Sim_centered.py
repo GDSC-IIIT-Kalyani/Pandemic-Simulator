@@ -14,6 +14,7 @@ population = 1000
 landmark = [(50,50),(10,10),(90,90)]
 landmark_prob = 0.1
 landmark_prob_dec_rate = 0.8
+landmark_prob_values = []
 
 
 def initialize():

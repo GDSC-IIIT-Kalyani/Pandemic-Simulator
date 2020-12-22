@@ -22,6 +22,7 @@ population = 1000
 landmark = []
 landmark_prob = 0.3
 landmark_prob_dec_rate = 0.8
+landmark_prob_values = []
 
 lock_ratio = 0.8
 lock_decrease_rate = 0.2
